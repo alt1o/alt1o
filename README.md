@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm wang zuomeng(@alt1o). A passionate frontend developer from China</h3>
+I'm wang zuomeng(@alt1o). A passionate frontend developer from China.
